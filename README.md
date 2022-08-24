@@ -22,6 +22,4 @@ Here are some ideas to get you started:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://www.clipartmax.com/middle/m2H7H7N4N4b1b1N4_string-helper-class-c-logo/" height="40" width="52" alt="c# logo"  />
-  <img src="http://www.stickpng.com/img/icons-logos-emojis/tech-companies/python-logo" height="40" width="52" alt="python logo"  />
 </div>
